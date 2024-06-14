@@ -2,7 +2,7 @@
 
 This project was undertaken during the Advanced CSS and Sass course, instructed by Jonas Schmedtmann.
 
-### O que aprendi durante o curso?
+### What did I learn during this project?
 
 Developing the Natours website was an incredible experience, during which I not only learned advanced CSS techniques such as animations, transitions, transformations, pseudo-elements and pseudo-classes, but also delved into complex concepts such as CSS parsing, cascade, specificity, value processing, inheritance, the visual formatting model, and more.
 
