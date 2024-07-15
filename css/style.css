@@ -100,6 +100,9 @@ body {
 .u-margin-bottom-small {
   margin-bottom: 1.5rem; }
 
+.u-margin-top-xlarge {
+  margin-top: 10rem; }
+
 .btn:link, .btn:visited {
   position: relative;
   display: inline-block;
@@ -240,6 +243,21 @@ body {
         padding: 1rem; }
         .card__details ul li:not(:last-child) {
           border-bottom: 1px solid #eee; }
+  .card__cta {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 90%;
+    transform: translate(-50%, -50%); }
+  .card__price-box {
+    color: #fff;
+    margin-bottom: 8rem; }
+  .card__price-only {
+    font-size: 1.4rem;
+    text-transform: uppercase; }
+  .card__price-value {
+    font-size: 6rem;
+    font-weight: 100; }
 
 .feature-box {
   background-color: rgba(255, 255, 255, 0.8);
@@ -347,5 +365,5 @@ body {
 
 .section-tours {
   background-color: #f7f7f7;
-  padding: 25rem 0 10rem;
+  padding: 25rem 0 15rem;
   margin-top: -10rem; }
